@@ -10,8 +10,9 @@ Clone, fork, or just view the [examples](examples) directory for a documentation
 
 Resources to help with the style guide.
 
-http://restful-api-design.readthedocs.org/
-https://developer.github.com/v3/
+* http://restful-api-design.readthedocs.org/
+* https://developer.github.com/v3/
+* https://help.github.com/articles/github-flavored-markdown/
 
 
 ## Contribute
