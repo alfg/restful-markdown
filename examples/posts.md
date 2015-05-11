@@ -125,7 +125,7 @@ Status: 200 OK
 ====
 
 
-#### Update Post
+#### Delete Post
 ```
 DELETE /posts/:post_id
 ```
