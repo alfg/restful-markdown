@@ -9,7 +9,7 @@ Clone, fork, or just view the [example]() directory for a documentation example.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Feel free to create an issue or pull request!
 
 
 ## License
