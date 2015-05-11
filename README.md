@@ -6,6 +6,13 @@ There are so many ways to create documentation for your RESTful API. However, so
 
 Clone, fork, or just view the [examples](examples) directory for a documentation example.
 
+## Resources
+
+Resources to help with the style guide.
+
+http://restful-api-design.readthedocs.org/
+https://developer.github.com/v3/
+
 
 ## Contribute
 
