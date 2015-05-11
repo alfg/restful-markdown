@@ -1,12 +1,14 @@
 #### Posts
 
+Blog posts resource.
+
 | Method | Endpoint | Description |
 | :----: | ---- | --------------- |
-| **GET** | [/posts](#get-posts-list) | Get posts list. |
-| **GET** | /posts/:post_id | Get post details. |
-| **PUT** | /posts/:post_id | Update post details. |
-| **POST** | /posts/:post_id | Create post. |
-| **DELETE** | /posts/:post_id | Delete post. |
+| **GET** | [/posts](#list-posts) | Get posts list. |
+| **GET** | [/posts/:post_id](#get-post) | Get post details. |
+| **POST** | [/posts/:post_id](#create-post) | Create post. |
+| **PUT** | [/posts/:post_id](#update-post) | Update post details. |
+| **DELETE** | [/posts/:post_id](#delete-post) | Delete post. |
 
 ====
 
