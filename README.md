@@ -4,7 +4,7 @@ A simple style-guide for building RESTful documentation in Markdown, inspired by
 
 There are so many ways to create documentation for your RESTful API. However, sometimes you just want something simple to publish along with your git repository. This project aims at utilizing [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) to create a simple documentation of your RESTful API. No generators, compilers or any fluff, just Markdown.
 
-Clone, fork, or just view the [example]() directory for a documentation example.
+Clone, fork, or just view the [examples](examples) directory for a documentation example.
 
 
 ## Contribute
