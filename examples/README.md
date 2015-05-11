@@ -7,5 +7,5 @@ Description goes here.
 
 ### Resources
 
-[Posts](posts.md)
-[Comments](comments.md)
+* [Posts](posts.md)
+* [Comments](comments.md)
