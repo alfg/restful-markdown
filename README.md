@@ -1,6 +1,6 @@
 # restful-markdown
 
-A simple standard for building RESTful documentation in Markdown, inspired by the [Github Developer API](https://developer.github.com/v3/).
+A simple style-guide for building RESTful documentation in Markdown, inspired by the [Github Developer API](https://developer.github.com/v3/).
 
 There are so many ways to create documentation for your RESTful API. However, sometimes you just want something simple to publish along with your git repository. This project aims at utilizing [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) to create a simple documentation of your RESTful API. No generators, compilers or any fluff, just Markdown.
 
